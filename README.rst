@@ -26,4 +26,4 @@ All URIs are relative to *https://api.dev.openbankingproject.ch*
    :header:  "Class", "Method", "HTTP request", "Description"
    :widths: 20, 20, 10
 
-    "[**createConsent**](Apis/AccountInformationServiceAISApi.md#createconsent)", "**POST** /v1/consents","Create consent","    "
+    "[**createConsent**](Apis/AccountInformationServiceAISApi.md#createconsent)", "**POST** /v1/consents", "Create consent", "    "
