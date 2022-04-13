@@ -1,7 +1,8 @@
 Documentation for Swiss NextGen Banking API-Framework
 =============================
 
- ## Documentation for API Endpoints
+Documentation for API Endpoints
+##  
 
 All URIs are relative to *https://api.dev.openbankingproject.ch*
 
