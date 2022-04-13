@@ -23,8 +23,8 @@ Documentation for API Endpoints
 All URIs are relative to *https://api.dev.openbankingproject.ch*
 
 .. csv-table:: a title
-   :header: "name", "firstname", "age"
-   :widths: 500, 20, 10
+   :header: "Class", "Method", "HTTP Request","Description"
+   :widths: 500, 500, 500, 500
 
    "Smith", "John", 40
-   "xcreateConsentxxApisxAccountInformationServiceAISApimdxcreateconsentx", "**POST** /v1/consents", "Create consent"
+   "*AccountInformationServiceAISApi*","[**createConsent**](Apis/AccountInformationServiceAISApi.md#createconsent)","**POST** /v1/consents","Create consent"
