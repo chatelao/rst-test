@@ -24,7 +24,7 @@ All URIs are relative to *https://api.dev.openbankingproject.ch*
 
 .. csv-table:: a title
    :header: "name", "firstname", "age"
-   :widths: 20, 20, 10
+   :widths: 500, 20, 10
 
    "Smith", "John", 40
    ""xcreateConsentxxApisxAccountInformationServiceAISApimdxcreateconsentx", "**POST** /v1/consents", "Create consent"
